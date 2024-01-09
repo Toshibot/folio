@@ -1,7 +1,7 @@
 {
-  "name": "bliga-app",
+  "name": "folio",
   "version": "0.0.1",
-  "homepage": "http://toshibot.github.io/bliga-app",
+  "homepage": "http://toshibot.github.io/folio",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
