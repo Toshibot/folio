@@ -1,7 +1,9 @@
 <template>
-  <section>
+  <section class="profile-section">
     <article>
-      <h1>Profile</h1>
+      <h1>Toshi Stewart</h1>
+      <h2>Hello There</h2>
+      <p>You seem to have stumbled upon my humble little website. I am Toshi Stewart; I'm a UX/UI designer and developer. Take a look around and let me know if you like what you see.</p>
     </article>
   </section>
 </template>
@@ -17,5 +19,28 @@ export default {
 <style scoped lang="scss">
   h1 {
     font-family: 'Montserrat', sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    padding: 32px 0;
+  }
+  h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    padding: 16px 0;
+  }
+  .profile-section {
+    padding: 64px 0;
+    margin: 0;
+  }
+  article {
+    text-align: center;
+
+    p {
+      max-width: 600px;
+      text-align: left;
+      display: block;
+      margin: 0 auto;
+      line-height: 1.3;
+    }
   }
 </style>
