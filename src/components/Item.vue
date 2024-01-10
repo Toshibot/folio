@@ -2,21 +2,31 @@
 
 </script>
 <template>
-    <section>
-        <article>
-            <h1>Folio Item</h1>
-        </article>
-    </section>
+  <section>
+    <article>
+      <h1>{{ position }}</h1>
+      <h3>{{ title }} | {{ year }}</h3>
+    </article>
+  </section>
 </template>
 <script lang="ts">
 
 export default {
   components: {
   },
-  data() {
+  props: {
+    position: {
+        type: String
+    },
+    title: {
+        type: String
+    },
+    year: {
+        type: String
+    }
   }
 }
 </script>
 <style scoped lang="scss">
-
+  
 </style>

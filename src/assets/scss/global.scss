@@ -30,6 +30,14 @@
 // *
 
 // ***
+// Fonts
+// -----
+// This must be loaded at the start of the
+// CSS file or the fonts will not load.
+@import '_variables/_fonts.scss';
+// *
+
+// ***
 // Utilities
 // ---------
 // The reset can be disabled if the application

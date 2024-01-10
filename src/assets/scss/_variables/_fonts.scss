@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap');
+
+$font-heading: 'Montserrat', sans-serif;
+$font-heading-s: 'Montserrat', sans-serif;
+$font-script: 'Dancing Script', serif;
+$font-icon: 'Font Awesome';
+
+body {
+  font-size: 16px;
+}
+
+h1 {
+  font-family: $font-heading;
+  font-size: 2rem;
+  font-weight: 700;
+}

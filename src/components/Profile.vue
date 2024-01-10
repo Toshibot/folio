@@ -2,11 +2,11 @@
 
 </script>
 <template>
-    <section>
-        <article>
-            <h1>Profile</h1>
-        </article>
-    </section>
+  <section>
+    <article>
+      <h1>Profile</h1>
+    </article>
+  </section>
 </template>
 <script lang="ts">
 
