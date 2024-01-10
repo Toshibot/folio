@@ -14,6 +14,8 @@
           :position="folioItem.position"
           :title="folioItem.title"
           :year="folioItem.year"
+          :img="folioItem.img"
+          :detailData="folioItem.detail"
         />
       </div>
       <Footer></Footer>

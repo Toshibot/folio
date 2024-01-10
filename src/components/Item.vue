@@ -1,6 +1,3 @@
-<script lang="ts">
-
-</script>
 <template>
   <section>
     <article>
@@ -10,19 +7,24 @@
   </section>
 </template>
 <script lang="ts">
+import Detail from './Detail.vue'
 
 export default {
   components: {
+    Detail
   },
   props: {
     position: {
-        type: String
+      type: String
     },
     title: {
-        type: String
+      type: String
     },
     year: {
-        type: String
+      type: String
+    },
+    detailData: {
+      type: Object
     }
   }
 }

@@ -5,7 +5,13 @@
         "title": "Chrono24",
         "year": "2021-2023",
         "img": "",
-        "detail": ""
+        "detail": {
+          "sub-title": "",
+          "eg-img-1": "",
+          "eg-img-2": "",
+          "content-1": "",
+          "content-2": ""
+        }
     },
     "reservix": {
         "id": "reservix",
@@ -13,7 +19,13 @@
         "title": "Reservix",
         "year": "2017-2021",
         "img": "",
-        "detail": ""
+        "detail": {
+          "sub-title": "",
+          "eg-img-1": "",
+          "eg-img-2": "",
+          "content-1": "",
+          "content-2": ""
+        }
     },
     "monash": {
         "id": "monash",
@@ -21,7 +33,13 @@
         "title": "Monash University: eSolutions",
         "year": "2016-2017",
         "img": "",
-        "detail": ""
+        "detail": {
+          "sub-title": "",
+          "eg-img-1": "",
+          "eg-img-2": "",
+          "content-1": "",
+          "content-2": ""
+        }
     },
     "vacc": {
         "id": "vacc",
@@ -29,6 +47,12 @@
         "title": "Victorian Automobile Chamber of Commerce",
         "year": "2013-2016",
         "img": "",
-        "detail": ""
+        "detail": {
+          "sub-title": "",
+          "eg-img-1": "",
+          "eg-img-2": "",
+          "content-1": "",
+          "content-2": ""
+        }
     }
 }
