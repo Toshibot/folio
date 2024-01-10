@@ -9,13 +9,12 @@
   <body id="Body" class="t-dark">
     <main class="o-main u-vert-center">
       <Profile />
-      <div v-for="folioItem in folioData" :key="folioItem.id">
+      <div v-for="folioItem in folioData" :key="folioItem['id']">
         <FolioItem
-          :position="folioItem.position"
-          :title="folioItem.title"
-          :year="folioItem.year"
-          :img="folioItem.img"
-          :detailData="folioItem.detail"
+          :position="folioItem['position']"
+          :title="folioItem['title']"
+          :year="folioItem['year']"
+          :detailData="folioItem['detail']"
         />
       </div>
       <Footer></Footer>
@@ -41,7 +40,7 @@ export default {
   },
   data() {
     return {
-      folioData: {}
+      folioData: []
     }
   },
   mounted() {

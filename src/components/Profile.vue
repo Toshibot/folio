@@ -1,6 +1,3 @@
-<script lang="ts">
-
-</script>
 <template>
   <section>
     <article>
@@ -18,5 +15,7 @@ export default {
 }
 </script>
 <style scoped lang="scss">
-
+  h1 {
+    font-family: 'Montserrat', sans-serif;
+  }
 </style>
