@@ -2,18 +2,30 @@
     "chrono24": {
         "id": "chrono24",
         "position": "Frontend Developer",
-        "title": "Chrono24",
+        "title": "Chrono24 GmbH",
         "year": "2021-2023",
         "img": "",
-        "detail": ""
+        "detail": {
+          "sub_title": "Luxury Timepieces",
+          "eg_img_1": "",
+          "eg_img_2": "",
+          "content_1": "",
+          "content_2": ""
+        }
     },
     "reservix": {
         "id": "reservix",
         "position": "UX/UI Designer",
-        "title": "Reservix",
+        "title": "Reservix GmbH",
         "year": "2017-2021",
         "img": "",
-        "detail": ""
+        "detail": {
+          "sub_title": "Ticketing",
+          "eg_img_1": "",
+          "eg_img_2": "",
+          "content_1": "",
+          "content_2": ""
+        }
     },
     "monash": {
         "id": "monash",
@@ -21,7 +33,13 @@
         "title": "Monash University: eSolutions",
         "year": "2016-2017",
         "img": "",
-        "detail": ""
+        "detail": {
+          "sub_title": "Analytics and Dashboard designs",
+          "eg_img_1": "",
+          "eg_img_2": "",
+          "content_1": "",
+          "content_2": ""
+        }
     },
     "vacc": {
         "id": "vacc",
@@ -29,6 +47,12 @@
         "title": "Victorian Automobile Chamber of Commerce",
         "year": "2013-2016",
         "img": "",
-        "detail": ""
+        "detail": {
+          "sub_title": "Streamlined Web Development Process",
+          "eg_img_1": "",
+          "eg_img_2": "",
+          "content_1": "",
+          "content_2": ""
+        }
     }
 }

@@ -4,6 +4,9 @@
       <h1>{{ position }}</h1>
       <h3>{{ title }} | {{ year }}</h3>
     </article>
+    <article>
+      <Detail :detailData="detailData"/>
+    </article>
   </section>
 </template>
 <script lang="ts">

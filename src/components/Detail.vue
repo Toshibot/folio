@@ -1,10 +1,7 @@
-<script lang="ts">
-
-</script>
 <template>
     <section>
         <article>
-            <h1>Detail</h1>
+            <h1>{{ detailData.sub_title }}</h1>
         </article>
     </section>
 </template>
@@ -12,6 +9,11 @@
 
 export default {
   components: {
+  },
+  props: {
+    detailData: {
+      type: Object
+    }
   },
   data() {
   }
