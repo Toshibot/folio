@@ -24,9 +24,9 @@
 </template>
 
 <style scoped lang="scss">
-  h1 {
-    font-size: 50px;
-    font-weight: 700;
+  body {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
   }
 </style>
 <script lang="ts">

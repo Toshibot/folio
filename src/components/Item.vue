@@ -33,5 +33,24 @@ export default {
 }
 </script>
 <style scoped lang="scss">
-  
+  h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    padding: 32px 0 8px;
+  }
+  h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    padding: 0 0 24px;
+  }
+  section {
+    width: 100%;
+    padding: 64px 0;
+  }
+  article {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 16px;
+  }
 </style>
