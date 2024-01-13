@@ -1,7 +1,7 @@
 <template>
   <section class="profile-section">
     <article>
-      <img src="img/avatar.jpg" class="avatar" />
+      <img src="/img/avatar.jpg" class="avatar" />
       <h1>Toshi Stewart</h1>
       <h2>Hello There</h2>
       <p>You seem to have stumbled upon my humble little website. I am Toshi Stewart; I'm a UX/UI designer and developer. Take a look around and let me know if you like what you see.</p>
@@ -32,7 +32,7 @@ export default {
   .profile-section {
     padding: 64px 0;
     margin: 0;
-    background-color: #8e8463;
+    background-color: #dccb95;
     color: #333;
   }
   img.avatar {
