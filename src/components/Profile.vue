@@ -34,6 +34,7 @@ export default {
   }
   article {
     text-align: center;
+    padding: 0 16px;
 
     p {
       max-width: 600px;
