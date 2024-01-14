@@ -6,24 +6,22 @@
 </script>
 
 <template>
-  <body id="Body" class="t-dark">
-    <main class="o-main u-vert-center">
-      <Profile />
-      <div v-for="folioItem in folioData" :key="folioItem['id']">
-        <FolioItem
-          :position="folioItem['position']"
-          :title="folioItem['title']"
-          :year="folioItem['year']"
-          :detailData="folioItem['detail']"
-        />
-      </div>
-      <Footer></Footer>
-    </main>
-  </body>
+  <main class="o-main u-vert-center">
+    <Profile />
+    <div v-for="folioItem in folioData" :key="folioItem['id']">
+      <FolioItem
+        :position="folioItem['position']"
+        :title="folioItem['title']"
+        :year="folioItem['year']"
+        :detailData="folioItem['detail']"
+      />
+    </div>
+    <Footer></Footer>
+  </main>
 </template>
 
 <style scoped lang="scss">
-  body {
+  main {
     font-family: 'Inter', sans-serif;
     font-size: 16px;
   }
