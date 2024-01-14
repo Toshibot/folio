@@ -1,5 +1,5 @@
 <template>
-    <section class="u-flex">
+    <section class="detail-section u-flex">
         <article class="img-container">
           <img :src="detailData.eg_img_1" />
         </article>
@@ -29,4 +29,9 @@ export default {
     font-size: 16px;
     font-weight: 700;
   }
+
+  section.detail-section {
+    padding: 0 0;
+  }
+
 </style>

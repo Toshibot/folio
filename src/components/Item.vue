@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section class="item-section">
     <article>
       <h1>{{ position }}</h1>
       <h3>{{ title }} | {{ year }}</h3>
@@ -44,9 +44,9 @@ export default {
     font-size: 24px;
     padding: 0 0 24px;
   }
-  section {
+  section.item-section {
     width: 100%;
-    padding: 64px 0;
+    padding: 128px 0;
   }
   article {
     max-width: 1024px;
