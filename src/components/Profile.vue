@@ -38,6 +38,11 @@ export default {
   img.avatar {
     width: 400px;
     height: 250px;
+    
+    @media screen and (max-width: 400px) {
+      width: 100%;
+      height: auto;
+    }
   }
   article {
     text-align: center;
