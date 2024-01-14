@@ -27,6 +27,7 @@ export default {
   h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
+    font-weight: 700;
     padding: 16px 0;
   }
   .profile-section {
