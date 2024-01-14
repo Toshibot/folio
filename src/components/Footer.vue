@@ -2,7 +2,7 @@
   <section class="footer-section">
     <article>
       <div class="footer-logo-container">
-        <img src="img/avatar.png"/>
+        <img src="/img/avatar.png"/>
         <h2>Toshi Stewart</h2>
       </div>
     </article>
