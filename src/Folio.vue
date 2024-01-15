@@ -24,6 +24,7 @@
   main {
     font-family: 'Inter', sans-serif;
     font-size: 16px;
+    line-height: 1;
   }
 </style>
 <script lang="ts">
