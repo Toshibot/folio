@@ -4,9 +4,11 @@
         "position": "Frontend Developer",
         "title": "Chrono24 GmbH",
         "year": "2021-2023",
-        "img": "",
+        "color": "",
+        "bg_color": "",
         "detail": {
-          "sub_title": "Luxury Timepieces",
+          "sub_title_1": "Luxury Timepieces",
+          "sub_title_2": "",
           "eg_img_1": "",
           "eg_img_2": "",
           "content_1": "",
@@ -18,9 +20,11 @@
         "position": "UX/UI Designer",
         "title": "Reservix GmbH",
         "year": "2017-2021",
-        "img": "",
+        "color": "#333",
+        "bg_color": "",
         "detail": {
-          "sub_title": "Ticketing",
+          "sub_title_1": "Ticketing",
+          "sub_title_2": "",
           "eg_img_1": "",
           "eg_img_2": "",
           "content_1": "",
@@ -32,9 +36,11 @@
         "position": "Digital Designer & UI Developer",
         "title": "Monash University: eSolutions",
         "year": "2016-2017",
-        "img": "",
+        "color": "",
+        "bg_color": "",
         "detail": {
-          "sub_title": "Analytics and Dashboard designs",
+          "sub_title_1": "Analytics and Dashboard designs",
+          "sub_title_2": "",
           "eg_img_1": "",
           "eg_img_2": "",
           "content_1": "",
@@ -46,13 +52,31 @@
         "position": "Website Designer, Developer and Team Leader",
         "title": "Victorian Automobile Chamber of Commerce",
         "year": "2013-2016",
-        "img": "",
+        "color": "",
+        "bg_color": "",
         "detail": {
-          "sub_title": "Streamlined Web Development Process",
+          "sub_title_1": "Streamlined Web Development Process",
+          "sub_title_2": "",
           "eg_img_1": "",
           "eg_img_2": "",
           "content_1": "",
           "content_2": ""
+        }
+    },
+    "rspca": {
+        "id": "rspca",
+        "position": "Digital Designer",
+        "title": "RSPCA Victoria",
+        "year": "2011-2013",
+        "color": "#333",
+        "bg_color": "#f5f5f5",
+        "detail": {
+          "sub_title_1": "Campaign Hero",
+          "sub_title_2": "All Creatures Great and Small",
+          "eg_img_1": "/img/rspca-eg1.jpg",
+          "eg_img_2": "/img/rspca-eg2.jpg",
+          "content_1": "I was asked to create a logo design for their Campaign Hero initiative. I went through many different iterations before settling on this shield-based design. A Campaign Hero is the shield for the animals they care for.",
+          "content_2": "Being present during the overhaul of the RSPCA Victoria website I have worked on many projects. Wrestling with their CMS (RadEditor) I have managed quite a few content up - dates, as well as designs for custom pages."
         }
     }
 }

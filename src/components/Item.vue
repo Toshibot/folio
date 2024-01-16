@@ -1,5 +1,5 @@
 <template>
-  <section class="item-section">
+  <section class="item-section" :style="{'background-color': bg_color, 'color': color}">
     <article>
       <h1>{{ position }}</h1>
       <h3>{{ title }} | {{ year }}</h3>
@@ -26,6 +26,12 @@ export default {
     year: {
       type: String
     },
+    color: {
+      type: String
+    },
+    bg_color: {
+      type: String
+    },
     detailData: {
       type: Object
     }
@@ -47,6 +53,7 @@ export default {
   section.item-section {
     width: 100%;
     padding: 128px 0;
+    color: #333;
   }
   article {
     max-width: 1024px;

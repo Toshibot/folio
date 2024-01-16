@@ -13,6 +13,8 @@
         :position="folioItem['position']"
         :title="folioItem['title']"
         :year="folioItem['year']"
+        :color="folioItem['color']"
+        :bg_color="folioItem['bg_color']"
         :detailData="folioItem['detail']"
       />
     </div>
