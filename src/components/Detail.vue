@@ -3,13 +3,13 @@
         <article class="img-container u-1/2">
           <img :src="detailData.eg_img_1" />
         </article>
-        <article class="content-container u-1/2">
+        <article class="content-container container-1 u-1/2">
             <h4>{{ detailData.sub_title_1 }}</h4>
             <p>{{ detailData.content_1 }}</p>
         </article>
     </section>
     <section class="detail-section u-flex">
-      <article class="content-container u-1/2">
+      <article class="content-container container-2 u-1/2">
             <h4>{{ detailData.sub_title_2 }}</h4>
             <p>{{ detailData.content_2 }}</p>
         </article>
@@ -47,10 +47,21 @@ export default {
     img {
       max-width: 100%;
     }
+    @media screen and (max-width: 640px){
+      padding-top: 64px;
+    }
   }
   .content-container {
     padding-top: 64px;
     line-height: 1.3;
+
+    &.container-1 {
+      padding-left: 16px;
+    }
+
+    &.container-2 {
+      padding-right: 16px;
+    }
   }
 
 </style>
