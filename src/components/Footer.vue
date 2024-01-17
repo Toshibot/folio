@@ -41,6 +41,17 @@ export default {
       font-size: 48px;
       font-weight: 700;
       line-height: 1;
+      color: #fff;
+    }
+
+    @media screen and (max-width: 640px) {
+      img {
+        width: 32px;
+        height: 32px;
+      }
+      h2 {
+        font-size: 32px;
+      }
     }
   }
 </style>
