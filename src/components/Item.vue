@@ -1,7 +1,7 @@
 <template>
   <section class="item-section" :style="{'background-color': bg_color, 'color': color}">
     <article>
-      <h1>{{ position }}</h1>
+      <h2>{{ position }}</h2>
       <h3>{{ title }} | {{ year }}</h3>
     </article>
     <article>
@@ -39,11 +39,11 @@ export default {
 }
 </script>
 <style scoped lang="scss">
-  h1 {
+  h2 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 32px;
-    padding: 32px 0 8px;
+    padding: 0 0 8px;
   }
   h3 {
     font-family: 'Montserrat', sans-serif;
@@ -52,8 +52,12 @@ export default {
   }
   section.item-section {
     width: 100%;
-    padding: 128px 0;
+    padding: 96px 0;
     color: #333;
+
+    @media screen and (max-width: 640px) {
+      padding: 64px 0;
+    }
   }
   article {
     max-width: 1024px;
