@@ -53,14 +53,14 @@
         "title": "Victorian Automobile Chamber of Commerce",
         "year": "2013-2016",
         "color": "",
-        "bg_color": "",
+        "bg_color": "#fcfcb6",
         "detail": {
-          "sub_title_1": "Streamlined Web Development Process",
-          "sub_title_2": "",
-          "eg_img_1": "",
-          "eg_img_2": "",
-          "content_1": "",
-          "content_2": ""
+          "sub_title_1": "Positively Retro",
+          "sub_title_2": "Trucktacular",
+          "eg_img_1": "img/desbrown-ipad-600trans.png",
+          "eg_img_2": "img/nippon-blacklappy-600-2.jpg",
+          "content_1": "One of the various website designs I've done for VACC Members, this site for Des Brown's Service Centre was crying out for some retro style.",
+          "content_2": "Another website for a VACC member. Nippon Truck Services had a particular style with their logo that they required the site to follow."
         }
     },
     "rspca": {
