@@ -5,12 +5,12 @@
         "title": "Chrono24 GmbH",
         "year": "2021-2023",
         "color": "",
-        "bg_color": "",
+        "bg_color": "#f3f3f3",
         "detail": {
           "sub_title_1": "Luxury Timepieces",
           "sub_title_2": "",
-          "eg_img_1": "",
-          "eg_img_2": "",
+          "eg_img_1": "img/chrono24_eg1.jpg",
+          "eg_img_2": "img/chrono24_eg2.jpg",
           "content_1": "",
           "content_2": ""
         }
@@ -21,14 +21,14 @@
         "title": "Reservix GmbH",
         "year": "2017-2021",
         "color": "#333",
-        "bg_color": "",
+        "bg_color": "#e7f4fc",
         "detail": {
-          "sub_title_1": "Ticketing",
-          "sub_title_2": "",
-          "eg_img_1": "",
-          "eg_img_2": "",
-          "content_1": "",
-          "content_2": ""
+          "sub_title_1": "Design System",
+          "sub_title_2": "Spacing and Handover",
+          "eg_img_1": "img/marigold_logo.png",
+          "eg_img_2": "img/marigold_dialog.png",
+          "content_1": "I led the team and created all the principal UI design work for the design system being built for what is called the Reservix Core system.",
+          "content_2": "Creating a system that is easier to hand over to the developers was a challenge as I was transitioning from Sketch into Figma. Figma’s dev mode had not yet been released so manually ruling out all spacing was the most effective way to make the designs clear for the developers."
         }
     },
     "monash": {
