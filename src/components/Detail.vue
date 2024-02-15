@@ -1,19 +1,19 @@
 <template>
-    <section class="detail-section u-flex">
-        <article class="img-container u-1/2">
+    <section class="detail-section detail-section-1 u-flex">
+        <article class="img-container">
           <img :src="detailData.eg_img_1" />
         </article>
-        <article class="content-container container-1 u-1/2">
+        <article class="content-container container-1">
             <h4>{{ detailData.sub_title_1 }}</h4>
             <p>{{ detailData.content_1 }}</p>
         </article>
     </section>
-    <section class="detail-section u-flex">
-      <article class="content-container container-2 u-1/2">
+    <section class="detail-section detail-section-2 u-flex">
+      <article class="content-container container-2">
             <h4>{{ detailData.sub_title_2 }}</h4>
             <p>{{ detailData.content_2 }}</p>
         </article>
-        <article class="img-container u-1/2">
+        <article class="img-container">
           <img :src="detailData.eg_img_2" />
         </article>
     </section>
@@ -42,16 +42,31 @@ export default {
 
   section.detail-section {
     padding: 0 0;
+
+    
+    @media screen and (max-width: 640px){
+      flex-direction: column;
+
+      &-2 {
+        flex-direction: column-reverse;
+      }
+    }
   }
   .img-container {
+    width: 50%;
+    display: inline-block;
+
     img {
       max-width: 100%;
     }
     @media screen and (max-width: 640px){
       padding-top: 64px;
+      width: 100%;
     }
   }
   .content-container {
+    width: 50%;
+    display: inline-block;
     padding-top: 64px;
     line-height: 1.3;
 
@@ -61,6 +76,10 @@ export default {
 
     &.container-2 {
       padding-right: 16px;
+    }
+
+    @media screen and (max-width: 640px){
+      width: 100%;
     }
   }
 
