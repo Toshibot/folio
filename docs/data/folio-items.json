@@ -34,17 +34,17 @@
     "monash": {
         "id": "monash",
         "position": "Digital Designer & UI Developer",
-        "title": "Monash University: eSolutions",
+        "title": "Monash University: Digital Customer Experience",
         "year": "2016-2017",
-        "color": "",
-        "bg_color": "",
+        "color": "#333",
+        "bg_color": "#fff",
         "detail": {
-          "sub_title_1": "Analytics and Dashboard designs",
-          "sub_title_2": "",
-          "eg_img_1": "",
-          "eg_img_2": "",
-          "content_1": "",
-          "content_2": ""
+          "sub_title_1": "Logo and Identity",
+          "sub_title_2": "Analytics and Website Statistics",
+          "eg_img_1": "img/monash_eg1.png",
+          "eg_img_2": "img/monash_eg2.jpg",
+          "content_1": "blah blah blah",
+          "content_2": "and also blah"
         }
     },
     "vacc": {
