@@ -1,5 +1,5 @@
 <template>
-    <section class="detail-section detail-section-1 u-flex">
+    <section class="detail-section detail-section-1">
         <article class="img-container">
           <img :src="detailData.eg_img_1" />
         </article>
@@ -8,7 +8,7 @@
             <p>{{ detailData.content_1 }}</p>
         </article>
     </section>
-    <section class="detail-section detail-section-2 u-flex">
+    <section class="detail-section detail-section-2">
       <article class="content-container container-2">
             <h4>{{ detailData.sub_title_2 }}</h4>
             <p>{{ detailData.content_2 }}</p>
@@ -42,6 +42,7 @@ export default {
 
   section.detail-section {
     padding: 0 0;
+    display: flex;
 
     
     @media screen and (max-width: 640px){
@@ -66,9 +67,10 @@ export default {
   }
   .content-container {
     width: 50%;
-    display: inline-block;
-    padding-top: 64px;
+    display: flex;
     line-height: 1.3;
+    flex-direction: column;
+    justify-content: center;
 
     &.container-1 {
       padding-left: 16px;
