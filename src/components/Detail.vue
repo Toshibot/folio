@@ -61,7 +61,7 @@ export default {
       max-width: 100%;
     }
     @media screen and (max-width: 640px){
-      padding-top: 64px;
+      padding: 64px 0 32px;
       width: 100%;
     }
   }
