@@ -82,6 +82,12 @@ export default {
 
     @media screen and (max-width: 640px){
       width: 100%;
+
+      &.container-1,
+      &.container-2 {
+        padding-left: 0;
+        padding-right: 0;
+      }
     }
   }
 
