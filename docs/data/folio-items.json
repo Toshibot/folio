@@ -4,6 +4,7 @@
         "position": "Frontend Developer",
         "title": "Chrono24 GmbH",
         "year": "2021-2023",
+        "intro": "",
         "color": "",
         "bg_color": "#e5e0d7",
         "detail": {
@@ -20,6 +21,7 @@
         "position": "UX/UI Designer",
         "title": "Reservix GmbH",
         "year": "2017-2021",
+        "intro": "",
         "color": "#333",
         "bg_color": "#e7f4fc",
         "detail": {
@@ -36,6 +38,7 @@
         "position": "Digital Designer & UI Developer",
         "title": "Monash University: DCX",
         "year": "2016-2017",
+        "intro": "",
         "color": "#333",
         "bg_color": "#fff",
         "detail": {
@@ -52,6 +55,7 @@
         "position": "Website Designer, Developer and Team Leader",
         "title": "Victorian Automobile Chamber of Commerce",
         "year": "2013-2016",
+        "intro": "",
         "color": "",
         "bg_color": "#fcfcb6",
         "detail": {
@@ -68,6 +72,7 @@
         "position": "Digital Designer",
         "title": "RSPCA Victoria",
         "year": "2011-2013",
+        "intro": "",
         "color": "#333",
         "bg_color": "#f5f5f5",
         "detail": {
