@@ -13,6 +13,7 @@
         :position="folioItem['position']"
         :title="folioItem['title']"
         :year="folioItem['year']"
+        :intro="folioItem['intro']"
         :color="folioItem['color']"
         :bg_color="folioItem['bg_color']"
         :detailData="folioItem['detail']"

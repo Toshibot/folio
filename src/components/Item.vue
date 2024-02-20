@@ -26,6 +26,9 @@ export default {
     year: {
       type: String
     },
+    intro: {
+      type: String
+    },
     color: {
       type: String
     },
