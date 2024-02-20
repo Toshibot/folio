@@ -6,7 +6,7 @@
 </script>
 
 <template>
-  <main class="o-main u-vert-center">
+  <main>
     <Profile />
     <div v-for="folioItem in folioData" :key="folioItem['id']">
       <FolioItem
