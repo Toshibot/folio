@@ -24,11 +24,11 @@
         "bg_color": "#e7f4fc",
         "detail": {
           "sub_title_1": "Design System",
-          "sub_title_2": "Spacing and Handover",
+          "sub_title_2": "Detailed Handover",
           "eg_img_1": "img/marigold_logo.png",
           "eg_img_2": "img/marigold_dialog.png",
           "content_1": "I led the team and created all the principal UI design work for the design system being built for what is called the Reservix Core system.",
-          "content_2": "Creating a system that is easier to hand over to the developers was a challenge as I was transitioning from Sketch into Figma. Figma’s dev mode had not yet been released so manually ruling out all spacing was the most effective way to make the designs clear for the developers."
+          "content_2": "While we were transitioning from Sketch into Figma, as Figma’s dev mode had not yet been released, manually ruling out all spacing was the most effective way to make the designs clear for the developers."
         }
     },
     "monash": {
