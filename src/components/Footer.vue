@@ -7,7 +7,7 @@
       </div>
       <div class="social-link-container">
         <a href="https://www.linkedin.com/in/toshistewart/" target="_blank">Linkedin</a>
-        <a>Github</a>
+        <a href="https://github.com/Toshibot" target="_blank">Github</a>
       </div>
     </article>
   </section>
@@ -27,12 +27,19 @@ export default {
     background: #181818;
   }
   article {
+    display: flex;
+    flex-direction: row;
     max-width: 1024px;
     margin: 0 auto;
     padding: 0 16px;
+
+    @media screen and (max-width: 900px) {
+      flex-direction: column;
+    }
   }
   .footer-logo-container {
     display: flex;
+    width: 50%;
 
     img {
       height: 48px;
@@ -48,6 +55,11 @@ export default {
       color: #fff;
     }
 
+    @media screen and (max-width: 900px) {
+      width: 100%;
+      padding-bottom: 24px;
+    }
+
     @media screen and (max-width: 640px) {
       img {
         width: 32px;
@@ -55,6 +67,36 @@ export default {
       }
       h2 {
         font-size: 32px;
+      }
+    }
+  }
+  
+  .social-link-container {
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    line-height: 48px;
+
+    a {
+      display: inline-block;
+      padding-left: 32px;
+      color: #fff;
+      text-decoration: none;
+
+      &:hover,
+      &:focus,
+      &:active {
+        color: #fff;
+      }
+    }
+
+    @media screen and (max-width: 900px) {
+      width: 100%;
+      flex-direction: column;
+
+      a {
+        padding-left: 0;
       }
     }
   }
