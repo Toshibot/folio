@@ -6,7 +6,7 @@
         <h2>Toshi Stewart</h2>
       </div>
       <div class="social-link-container">
-        <a>Linkedin</a>
+        <a href="https://www.linkedin.com/in/toshistewart/" target="_blank">Linkedin</a>
         <a>Github</a>
       </div>
     </article>
