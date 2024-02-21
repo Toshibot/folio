@@ -5,6 +5,10 @@
         <img src="/img/avatar.png"/>
         <h2>Toshi Stewart</h2>
       </div>
+      <div class="social-link-container">
+        <a>Linkedin</a>
+        <a>Github</a>
+      </div>
     </article>
   </section>
 </template>
