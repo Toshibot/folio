@@ -6,8 +6,8 @@
         <h2>Toshi Stewart</h2>
       </div>
       <div class="social-link-container">
-        <a href="https://www.linkedin.com/in/toshistewart/" target="_blank">Linkedin</a>
-        <a href="https://github.com/Toshibot" target="_blank">Github</a>
+        <a href="https://www.linkedin.com/in/toshistewart/" target="_blank"><i class="fab fa-linkedin"></i> Linkedin</a>
+        <a href="https://github.com/Toshibot" target="_blank"><i class="fab fa-github"></i> Github</a>
       </div>
     </article>
   </section>
