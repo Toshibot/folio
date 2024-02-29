@@ -3,6 +3,7 @@
     <article>
       <h2>{{ position }}</h2>
       <h3>{{ title }} | {{ year }}</h3>
+      <p v-if="intro" class="item-intro">{{ intro }}</p>
     </article>
     <article>
       <Detail :detailData="detailData"/>
@@ -52,6 +53,10 @@ export default {
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
     padding: 0 0 24px;
+  }
+  p.item-intro {
+    font-size: 16px;
+    padding-bottom: 32px;
   }
   section.item-section {
     width: 100%;
