@@ -56,7 +56,7 @@ export default {
   }
   p.item-intro {
     font-size: 16px;
-    padding-bottom: 32px;
+    margin-bottom: 32px;
   }
   section.item-section {
     width: 100%;

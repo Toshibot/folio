@@ -43,6 +43,7 @@ export default {
   section.detail-section {
     padding: 0 0;
     display: flex;
+    margin: 32px 0;
 
     
     @media screen and (max-width: 640px){
