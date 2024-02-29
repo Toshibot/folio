@@ -39,6 +39,7 @@ export default {
   img.avatar {
     width: 400px;
     height: 250px;
+    border-radius: 125px;
     
     @media screen and (max-width: 400px) {
       width: 100%;
