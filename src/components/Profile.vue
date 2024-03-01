@@ -39,6 +39,8 @@ export default {
   img.avatar {
     width: 400px;
     height: 250px;
+    -moz-border-radius: 125px;
+    -webkit-border-radius: 125px;
     border-radius: 125px;
     
     @media screen and (max-width: 400px) {
