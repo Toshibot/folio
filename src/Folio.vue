@@ -26,7 +26,7 @@
 <style scoped lang="scss">
   main {
     font-family: 'Inter', sans-serif;
-    font-size: 16px;
+    font-size: 1rem;
     line-height: 1;
   }
 </style>

@@ -20,13 +20,13 @@ export default {
 <style scoped lang="scss">
   h1 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 64px;
+    font-size: 4rem;
     font-weight: 700;
     padding: 32px 0;
   }
   h2 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     padding: 16px 0;
   }
