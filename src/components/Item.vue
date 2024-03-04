@@ -46,16 +46,16 @@ export default {
   h2 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 2rem;
     padding: 0 0 8px;
   }
   h3 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
+    font-size: 1.5rem;
     padding: 0 0 24px;
   }
   p.item-intro {
-    font-size: 16px;
+    font-size: 1rem;
     margin-bottom: 32px;
   }
   section.item-section {

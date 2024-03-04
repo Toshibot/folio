@@ -49,7 +49,7 @@ export default {
 
     h2 {
       font-family: 'Montserrat', sans-serif;
-      font-size: 48px;
+      font-size: 3rem;
       font-weight: 700;
       line-height: 1;
       color: #fff;
@@ -66,7 +66,7 @@ export default {
         height: 32px;
       }
       h2 {
-        font-size: 32px;
+        font-size: 2rem;
       }
     }
   }

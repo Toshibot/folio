@@ -20,13 +20,13 @@ export default {
 <style scoped lang="scss">
   h1 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 64px;
+    font-size: 4rem;
     font-weight: 700;
     padding: 32px 0;
   }
   h2 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     padding: 16px 0;
   }
@@ -39,6 +39,8 @@ export default {
   img.avatar {
     width: 400px;
     height: 250px;
+    -moz-border-radius: 125px;
+    -webkit-border-radius: 125px;
     border-radius: 125px;
     
     @media screen and (max-width: 400px) {

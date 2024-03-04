@@ -35,7 +35,7 @@ export default {
 <style scoped lang="scss">
   h4 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     margin-bottom: 16px;
   }
