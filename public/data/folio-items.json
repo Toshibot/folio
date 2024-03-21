@@ -30,7 +30,7 @@
           "eg_img_1": "img/marigold_logo.png",
           "eg_img_2": "img/marigold_dialog.png",
           "content_1": "I led the team and created all the principal UI design work for the design system being built for what is called the Reservix Core system.",
-          "content_2": "While we were transitioning from Sketch into Figma, as Figma’s dev mode had not yet been released, manually ruling out all spacing was the most effective way to make the designs clear for the developers. Also, I created <a href=\"https://codepen.io/collection/Dqjwgk\" target=\"_blank\">CodePen snippets<\/a> for many of these design elements as well."
+          "content_2": "While we were transitioning from Sketch into Figma (Figma’s dev mode had not yet been released) manually ruling out all spacing was the most effective way to make the designs clear for the developers. I also created <a href=\"https://codepen.io/collection/Dqjwgk\" target=\"_blank\">CodePen snippets<\/a> for many of these design elements as well."
         }
     },
     "monash": {
