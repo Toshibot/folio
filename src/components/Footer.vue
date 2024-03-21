@@ -8,6 +8,7 @@
       <div class="social-link-container">
         <a href="https://www.linkedin.com/in/toshistewart/" target="_blank"><i class="fab fa-linkedin"></i> Linkedin</a>
         <a href="https://github.com/Toshibot" target="_blank"><i class="fab fa-github"></i> Github</a>
+        <a href="https://codepen.io/toshibot" target="_blank"><i class="fab fa-codepen"></i> Codepen</a>
       </div>
     </article>
   </section>
