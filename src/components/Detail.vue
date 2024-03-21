@@ -5,13 +5,13 @@
         </article>
         <article class="content-container container-1">
             <h4>{{ detailData.sub_title_1 }}</h4>
-            <p>{{ detailData.content_1 }}</p>
+            <p v-html="detailData.content_1"></p>
         </article>
     </section>
     <section class="detail-section detail-section-2">
       <article class="content-container container-2">
             <h4>{{ detailData.sub_title_2 }}</h4>
-            <p>{{ detailData.content_2 }}</p>
+            <p v-html="detailData.content_2"></p>
         </article>
         <article class="img-container">
           <img :src="detailData.eg_img_2" />
