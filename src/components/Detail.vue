@@ -69,7 +69,7 @@ export default {
   .content-container {
     width: 50%;
     display: flex;
-    line-height: 1.3;
+    line-height: 1.6;
     flex-direction: column;
     justify-content: center;
 

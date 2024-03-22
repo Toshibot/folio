@@ -57,7 +57,7 @@ export default {
       text-align: left;
       display: block;
       margin: 0 auto;
-      line-height: 1.3;
+      line-height: 1.6;
     }
   }
 </style>
