@@ -12,7 +12,7 @@
           "sub_title_2": "Watch Collection",
           "eg_img_1": "img/chrono24_eg1.jpg",
           "eg_img_2": "img/chrono24_eg2.jpg",
-          "content_1": "I worked within the Customer Acquisitions and Loyalty team and our charge was the MyChrono section of the website. This was the area that users interacted with the most and hosted a number of special features built specifically for them.",
+          "content_1": "I worked within the Customer Acquisitions and Loyalty team that was in charge of the User Settings/Dashboard (named MyChrono) section of the website. This was the area that users interacted with the most and hosted a number of special features built specifically for them.",
           "content_2": "One of these features was the Watchcollection area. Here the user could add watches they already owned as well as having the collection automatically update when a watch was purchased through the Chrono24 platform."
         }
     },
@@ -29,8 +29,8 @@
           "sub_title_2": "Detailed Handover",
           "eg_img_1": "img/marigold_logo.png",
           "eg_img_2": "img/marigold_dialog.png",
-          "content_1": "I led the team and created all the principal UI design work for the design system being built for what is called the Reservix Core system.",
-          "content_2": "While we were transitioning from Sketch into Figma (Figma’s dev mode had not yet been released) manually ruling out all spacing was the most effective way to make the designs clear for the developers. I also created <a href=\"https://codepen.io/collection/Dqjwgk\" target=\"_blank\">CodePen snippets<\/a> for many of these design elements as well."
+          "content_1": "I led the team and created all the principal UI design work for the design system being built for Reservix's B2B Ticketing interface.",
+          "content_2": "While we were transitioning from a Sketch + Invision + Abstract working environment into Figma (Figma’s dev mode had not yet been released) manually ruling out all spacing was the most effective way to onboard the designs to the developers. For more complex components I also created <a href=\"https://codepen.io/collection/Dqjwgk\" target=\"_blank\">CodePen snippets<\/a>."
         }
     },
     "monash": {
