@@ -25,19 +25,19 @@
         "color": "#333",
         "bg_color": "#e7f4fc",
         "detail": {
-          "sub_title_1": "Design System",
-          "sub_title_2": "Detailed Handover",
-          "eg_img_1": "img/marigold_logo.png",
+          "sub_title_1": "Core Design",
+          "sub_title_2": "Design System",
+          "eg_img_1": "img/reservix_eg1.jpg",
           "eg_img_2": "img/marigold_dialog.png",
-          "content_1": "I led the team and created all the principal UI design work for the design system being built for Reservix's B2B Ticketing interface.",
-          "content_2": "While we were transitioning from a Sketch + Invision + Abstract working environment into Figma (Figma’s dev mode had not yet been released) manually ruling out all spacing was the most effective way to onboard the designs to the developers. For more complex components I also created <a href=\"https://codepen.io/collection/Dqjwgk\" target=\"_blank\">CodePen snippets<\/a>."
+          "content_1": "It was my responsibility to design and maintain the User-Flow and UI of the Core Reservix B2B Interface.",
+          "content_2": "I led the team and created all the principal UI design work for the design system being built for Reservix's B2B Ticketing interface. I was also in charge of onboarding the designs to the developers. For more complex components I also created <a href=\"https://codepen.io/collection/Dqjwgk\" target=\"_blank\">CodePen snippets<\/a>."
         }
     },
     "personal": {
         "id": "personal",
         "position": "Personal Projects",
         "title": "Development",
-        "year": "Training",
+        "year": "Personal Interests",
         "intro": "",
         "color": "#fff",
         "bg_color": "#444",
