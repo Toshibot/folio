@@ -39,7 +39,7 @@ export default {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5rem;
     font-weight: 700;
-    margin-bottom: 16px;
+    margin-bottom: 8px;
   }
 
   section.detail-section {
