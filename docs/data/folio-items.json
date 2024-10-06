@@ -33,6 +33,23 @@
           "content_2": "While we were transitioning from a Sketch + Invision + Abstract working environment into Figma (Figma’s dev mode had not yet been released) manually ruling out all spacing was the most effective way to onboard the designs to the developers. For more complex components I also created <a href=\"https://codepen.io/collection/Dqjwgk\" target=\"_blank\">CodePen snippets<\/a>."
         }
     },
+    "personal": {
+        "id": "personal",
+        "position": "Personal Projects",
+        "title": "Development",
+        "year": "Training",
+        "intro": "",
+        "color": "#fff",
+        "bg_color": "#444",
+        "detail": {
+          "sub_title_1": "Footy Jumpers",
+          "sub_title_2": "Footy Results",
+          "eg_img_1": "img/personal_eg1.jpg",
+          "eg_img_2": "img/personal_eg2.jpg",
+          "content_1": "In order to keep up my skills in Figma between Frontend jobs, I constructed Footy Jumpers and Soccer Shirts for the AFL, Bundesliga and EPL.",
+          "content_2": "Along with the Jumpers/Shirts created in Figma I also created websites for displaying the weekly results utilising REST APIs to give myself a more pleasing way to view the week's results for the <a href=\"https://footy.toshibot.com/\" target=\"_blank\">AFL<\/a>, Bundesliga and the EPL."
+        }
+    },
     "monash": {
         "id": "monash",
         "position": "Digital Designer & UI Developer",
